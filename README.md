@@ -1,6 +1,13 @@
-### Hi there 👋
+<img style="height:50px" src="https://i.imgur.com/70QSaeb.png">
+
+Hello! My name is Antonio Macaluso (also known as Jockbaia) and I'm an Italy-based developer with a passion for visual arts, virtual reality and computer vision based projects. 
 
 <!--
+- 🔭 I'm currently working on @picopod, a web app focused on providing music chords via crowdsourcing.
+- 🌱 After a long run with Unity, I'm trying 
+- Ciao
+
+
 **Jockbaia/jockbaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
