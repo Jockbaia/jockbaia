@@ -1,4 +1,4 @@
-<img style="height:50px" src="https://i.imgur.com/70QSaeb.png">
+<img style="height:30px" src="https://i.imgur.com/70QSaeb.png">
 
 Hello! My name is Antonio Macaluso (also known as Jockbaia) and I'm an Italy-based developer with a passion for visual arts, virtual reality and computer vision based projects. 
 
